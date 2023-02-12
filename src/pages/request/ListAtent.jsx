@@ -236,7 +236,7 @@ export const ListAtent = () => {
               {
                 !usuarios_mostrar && 
                 <center>
-                   No tienes solicitudes de solicitudes atendidas.
+                   No tienes solicitudes atendidas.
                   <Loanding />
                   </center>
               }

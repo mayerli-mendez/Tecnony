@@ -239,7 +239,7 @@ export const ListRequest = () => {
               {
                 !usuarios_mostrar && 
                 <center>
-                   No tienes solicitudes de solicitudes pendientes.
+                   No tienes solicitudes pendientes.
                   <Loanding />
                   </center>
               }
