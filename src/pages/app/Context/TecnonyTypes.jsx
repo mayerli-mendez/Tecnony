@@ -1,0 +1,1 @@
+export const CARGAR_INFO='CARGAR_INFO'

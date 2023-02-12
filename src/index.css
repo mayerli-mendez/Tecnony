@@ -1,0 +1,22 @@
+/*============ LogIn*/
+.login-container {
+  height: 100%;
+  overflow-y: scroll;
+}
+
+/*============ Fonts */
+.font-face {
+  font-family: 'Signika Negative';
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*============ Icons */
+#person-circle {
+  width: 300px;
+}
+
+.separador{
+  display: flex;
+  gap: 10px;
+}
