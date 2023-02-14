@@ -3,8 +3,8 @@
 
 ![image](https://user-images.githubusercontent.com/74840012/218665342-84ded8e7-aede-4452-b1a7-aad8e5f2dd8b.png)
 
-##Desarrollado por 💻
+## Desarrollado por 💻
 Mayerli Mendez 
 
-##Video 📍
+## Video 📍
 Manual de Usuario (video Explicativo) 
