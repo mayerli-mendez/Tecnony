@@ -13,10 +13,12 @@ https://tecnony-iota.vercel.app/landing/
 
 Usuario administrador 
 •	Correo de técnico: XXXXXXXXXXXX
+
 •	Contraseña: XXXXXXXXXXXX
 
 Usuario tecnico 
 •	Correo de técnico: XXXXXXXXXXXX
+
 •	Contraseña: XXXXXXXXXXXX
 
 ## Video 📍
