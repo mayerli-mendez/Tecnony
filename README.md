@@ -15,13 +15,13 @@ Usuario administrador
 
 •	Correo de técnico: XXXXXXXXXXXX
 
-•	Contraseña: XXXXXXXXXXXX
+•	Contraseña: happySad1*
 
 Usuario tecnico 
 
 •	Correo de técnico: XXXXXXXXXXXX
 
-•	Contraseña: XXXXXXXXXXXX
+•	Contraseña: happySad1*
 
 ## Video 📍
 Manual de Usuario (video Explicativo) 
