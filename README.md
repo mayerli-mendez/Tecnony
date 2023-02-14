@@ -6,5 +6,18 @@
 ## Desarrollado por 💻
 Mayerli Mendez 
 
+## Enlace el proyecto desplegado 🔗
+https://tecnony-iota.vercel.app/landing/
+
+## Credenciales 👨‍💻👩‍💻
+
+Usuario administrador 
+•	Correo de técnico: XXXXXXXXXXXX
+•	Contraseña: XXXXXXXXXXXX
+
+Usuario tecnico 
+•	Correo de técnico: XXXXXXXXXXXX
+•	Contraseña: XXXXXXXXXXXX
+
 ## Video 📍
 Manual de Usuario (video Explicativo) 
