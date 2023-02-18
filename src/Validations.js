@@ -57,8 +57,6 @@ function isValidLocal_Name(texto3) {
 }
 
 
-
-
 /* Validaciones del login , registro y perfil */
 /* Validacion del correo */
 
@@ -91,9 +89,9 @@ export const validatePhoneNumberConvencional = (phoneNumber) => {
     return result;
   }
   if (phoneNumber.startsWith("02")) {
-    if (phoneNumber.length != 9) {
+    if (phoneNumber.length != 7) {
       result.result = false;
-      result.message = "Debe ingresar 9 dígitos";
+      result.message = "Debe ingresar 7 dígitos";
       return result;
     }
     result.result = true;
@@ -247,7 +245,7 @@ export const validatAdress = (adress) => {
     return result;
   } else {
     result.result = false;
-    result.message = "Solo es permitido letras";
+    result.message = " ";
     return result;
   }
 };
@@ -352,7 +350,7 @@ export const validateDescription = (description) => {
     return result;
   } else {
     result.result = false;
-    result.message = "Solo es permitido letras";
+    result.message = " ";
     return result;
   }
 };
