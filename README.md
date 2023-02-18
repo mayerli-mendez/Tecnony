@@ -24,4 +24,6 @@ Usuario tecnico
 •	Contraseña: happySad1*
 
 ## Video 📍
-Manual de Usuario (video Explicativo) 
+Manual de Usuario 
+https://youtu.be/JABdrQi9eq8
+
