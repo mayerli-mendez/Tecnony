@@ -13,13 +13,13 @@ https://tecnony-iota.vercel.app/landing/
 
 Usuario administrador 
 
-•	Correo de técnico: XXXXXXXXXXXX
+•	Correo de administrador: admin@example.net
 
 •	Contraseña: happySad1*
 
 Usuario tecnico 
 
-•	Correo de técnico: XXXXXXXXXXXX
+•	Correo de técnico: tecnico@example.net
 
 •	Contraseña: happySad1*
 
