@@ -6,7 +6,15 @@ El presente proyecto presenta el desarrollo de un frontend que brinda una excele
 ## 🌐 Enlace el proyecto desplegado
 https://tecnony-iota.vercel.app/landing/
 
-## 👨‍💻👩‍💻Credenciales 
+## 📍 Manual de Usuario 
+ 
+https://youtu.be/JABdrQi9eq8
+
+## 📋 Documentación 
+
+
+
+## 👨‍💻Credenciales de acceso 
 
 ### Usuario administrador 
 
@@ -20,10 +28,18 @@ https://tecnony-iota.vercel.app/landing/
 
 •	Contraseña: happySad1*
 
-## 📍 Manual de Usuario 
- 
-https://youtu.be/JABdrQi9eq8
+##  💾 Instalación
+Para instalar el frontend, debes seguir los siguientes pasos:
 
-## 📋 Documentación 
+Clonar el repositorio en tu máquina local:
+```git clone https://github.com/mayerli-mendez/Tecnony.git```
+
+Instalar las dependencias con :
+```npm install``` 
+
+##  🖥️ Iniciar proyecto
+
+``` npm start```
+
 
 
