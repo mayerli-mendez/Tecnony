@@ -9,8 +9,8 @@ El presente proyecto presenta el desarrollo de un frontend que brinda una excele
 https://tecnony-iota.vercel.app/landing/
 
 ## 📍 Manual de Usuario 
- 
-https://youtu.be/JABdrQi9eq8
+
+<iframe width="900" height="506" src="https://www.youtube.com/embed/JABdrQi9eq8" title="DESARROLLO DE SISTEMA PARA BRINDAR SERVICIOS INFORMÁTICOS EN QUITO - COMPONENTE DESARROLLO FRONTEND" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 📋 Documentación 
 
