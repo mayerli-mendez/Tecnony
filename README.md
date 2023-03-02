@@ -30,7 +30,7 @@ https://youtu.be/JABdrQi9eq8
 
 •	Contraseña: happySad1*
 
-##  💾 Instalación
+##  📥 Instalación
 
 Para instalar el frontend, debes seguir los siguientes pasos:
 
@@ -47,7 +47,8 @@ Instalar las dependencias con :
 Para ejecutar la aplicación se debe usar el siguiente comando:
 
 ``` npm start```
-💻 Tecnologías
-JavaScript Boostrap Html Css
+##  🖥 Tecnologías
+
+![image](https://user-images.githubusercontent.com/74840012/222333884-0d6e3bf1-0781-4f1a-b950-7de5128d2eb0.png)
 
 
