@@ -49,6 +49,6 @@ Para ejecutar la aplicación se debe usar el siguiente comando:
 ``` npm start```
 ##  🖥 Tecnologías
 
-![image](https://user-images.githubusercontent.com/74840012/222334761-55bd21c7-16ef-4911-91ec-bc2950d3e79b.png)
+![image](https://user-images.githubusercontent.com/74840012/222335216-d375a059-3ac3-4d27-9d86-d06ffc15a7bf.png)
 
 
