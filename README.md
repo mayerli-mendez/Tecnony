@@ -36,17 +36,23 @@ Para instalar el frontend, debes seguir los siguientes pasos:
 
 Clonar el repositorio en tu máquina local:
 
-```git clone https://github.com/mayerli-mendez/Tecnony.git```
+```
+git clone https://github.com/mayerli-mendez/Tecnony.git
+```
 
 Instalar las dependencias con :
 
-```npm install``` 
+```
+npm install
+``` 
 
 ##  🖥️ Iniciar proyecto
 
 Para ejecutar la aplicación se debe usar el siguiente comando:
 
-``` npm start```
+``` 
+npm start
+```
 ##  🖥 Tecnologías
 
 ![image](https://user-images.githubusercontent.com/74840012/222335216-d375a059-3ac3-4d27-9d86-d06ffc15a7bf.png)
