@@ -14,8 +14,11 @@ https://youtu.be/JABdrQi9eq8
 
 ## 📋 Documentación 
 
+[Tesis](https://github.com/mayerli-mendez/Tecnony_Documentacion/blob/main/Tesis-Mayerli.pdf).
 
+[F_AA_233A](https://github.com/mayerli-mendez/Tecnony_Documentacion/blob/main/F_AA_233A.pdf).
 
+[F_AA_234A](https://github.com/mayerli-mendez/Tecnony_Documentacion/blob/main/F_AA_234A.pdf).
 
 ## 👨‍💻Credenciales de acceso 
 
