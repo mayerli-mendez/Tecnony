@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import { Checkbox } from 'antd';
 import { Drop } from '../../pages/app/Drop';
-import { validatAdress, validateAtt_Local, validateLocalName, validatePhoneNumberConvencional, validateProf_Espec,validateAcount } from '../../Validations';
+import { validatAdress, validateAtt_Local, validateLocalName, validatePhoneNumber, validateProf_Espec,validateAcount } from '../../Validations';
 import Swal from 'sweetalert2'
 
 export const MemberForm = ({ member }) => {
@@ -242,7 +242,7 @@ export const MemberForm = ({ member }) => {
                                             onChange={(e) => {
                                                 setWork_phone(e.target.value)
                                                 if (e.target.value.length > 0) {
-                                                    setSms2(validatePhoneNumberConvencional(e.target.value))
+                                                    setSms2(validatePhoneNumber(e.target.value))
 
                                                 } else {
                                                     setSms2(null)
