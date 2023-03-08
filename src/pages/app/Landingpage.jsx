@@ -416,7 +416,7 @@ export const LandingPage = () => {
                                     </center>
 
 
-                                    <input type="hidden" name="_next" value="http://localhost:3000/login/a" />
+                                    <input type="hidden" name="_next" value="https://tecnony-iota.vercel.app/landing/" />
                                     <input type="hidden" name="_captcha" value="false" />
                                 </form>
                             </div>
