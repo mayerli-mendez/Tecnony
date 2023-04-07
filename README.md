@@ -20,19 +20,6 @@ https://youtu.be/JABdrQi9eq8
 
 [F_AA_234A](https://github.com/mayerli-mendez/Tecnony_Documentacion/blob/main/F_AA_234A.pdf).
 
-## 👨‍💻Credenciales de acceso 
-
-### Usuario administrador 
-
-•	Correo de administrador: admin@example.net
-
-•	Contraseña: happySad1*
-
-### Usuario técnico 
-
-•	Correo de técnico: tecnico@example.net
-
-•	Contraseña: happySad1*
 
 ##  📥 Instalación
 
